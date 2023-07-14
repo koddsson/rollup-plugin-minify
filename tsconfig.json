@@ -1,0 +1,9 @@
+{
+  "files": [
+    "./src/rollup-plugin-minify.js"
+  ],
+  "compilerOptions": {
+    "allowJs": true,
+    "noEmit": true
+  }
+}
