@@ -1,6 +1,7 @@
 {
   "files": [
-    "./src/rollup-plugin-minify.js"
+    "./src/rollup-plugin-minify.js",
+    "./test/rollup-plugin-minify.test.js"
   ],
   "compilerOptions": {
     "allowJs": true,
