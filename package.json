@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-minify",
+  "name": "@koddsson/rollup-plugin-compress-images",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
