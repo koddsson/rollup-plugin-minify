@@ -21,11 +21,11 @@
     ]
   },
   "dependencies": {
+    "@koddsson/imagemin-svgo": "^11.0.1",
     "imagemin": "^8.0.1",
     "imagemin-giflossy": "^5.1.10",
     "imagemin-mozjpeg": "^10.0.0",
     "imagemin-pngquant": "^9.0.2",
-    "imagemin-svgo": "^10.0.1",
     "imagemin-webp": "^8.0.0"
   }
 }
