@@ -5,7 +5,7 @@ import imagemin from "imagemin";
 import imageminMozjpeg from "imagemin-mozjpeg";
 import imageminPngquant from "imagemin-pngquant";
 import imageminGiflossy from "imagemin-giflossy";
-import imageminSvgo from "imagemin-svgo";
+import imageminSvgo from "@koddsson/imagemin-svgo";
 import imageminWebp from "imagemin-webp";
 
 export default function (options) {
